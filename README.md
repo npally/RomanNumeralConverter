@@ -1,2 +1,2 @@
 # RomanNumeralConverter
-A easy to use roman numeral converter
+An easy to use roman numeral converter
